@@ -40,7 +40,3 @@ int main()
 }
 
 
-	// sort(n1.begin(),n1.end()); //next_permutation要升序排列，否则会漏算 
-    // do t4.push_back(n1[0]+n1[1]+n1[2]+n1[3]);
-    // while(next_permutation(n1.begin(),n1.end()));
-
