@@ -10,7 +10,7 @@ struct QueueNode
 class Queue
 {
 private:
-    static int m_size{0};
+    int m_size{0};
     QueueNode* m_head{nullptr};
     QueueNode* m_tail{nullptr};
 
